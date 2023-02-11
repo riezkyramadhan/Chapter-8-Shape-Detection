@@ -1,2 +1,2 @@
-# Chapter-9-Shape-Detection
+# Chapter-8-Shape-Detection
 Open CV
